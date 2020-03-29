@@ -734,3 +734,7 @@ WEI = {
 	color = rgb { 0 0 250 }
 	color_ui = rgb { 0 0 250 }
 }
+PRS = {
+	color = rgb { 125 13 24 }
+	color_ui = rgb { 163 17 31 }
+}
