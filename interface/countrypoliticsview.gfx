@@ -462,6 +462,26 @@ spriteTypes = {
 	}
 	
 	spriteType = {
+		name = "GFX_ideology_conqueror_group"
+		texturefile = "gfx/interface/ideologies/conqueror_group.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_ideology_cult_group"
+		texturefile = "gfx/interface/ideologies/cult_group.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_ideology_mafia_group"
+		texturefile = "gfx/interface/ideologies/mafia_group.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_ideology_raider_group"
+		texturefile = "gfx/interface/ideologies/raider_group.dds"
+	}
+	
+	spriteType = {
 		name = "GFX_ideology_unknown"
 		texturefile = "gfx/interface/ideologies/unknown.dds"
 		legacy_lazy_load = no
