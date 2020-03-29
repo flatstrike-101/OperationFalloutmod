@@ -2259,6 +2259,6 @@ BAY_fascism_ADJ:0 "Bavarian"
 
 ##################################################################                Weimar
 
-WEI_fascism:0 "Second Weimar Republic"
-WEI_fascism_DEF:0 "the Second Weimar Republic"
-WEI_fascism_ADJ:0 "German"
+WEI_democratic:0 "Second Weimar Republic"
+WEI_democratic_DEF:0 "the Second Weimar Republic"
+WEI_democratic_ADJ:0 "German"
