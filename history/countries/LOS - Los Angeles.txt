@@ -1,0 +1,40 @@
+﻿capital = 378
+
+set_research_slots = 3
+
+set_stability = 0.8
+set_war_support = 0.1
+
+add_ideas = {
+	
+}
+	
+
+set_convoys = 0
+
+set_politics = {
+	ruling_party = mafia
+	last_election = "1935.11.14"
+	election_frequency = 48
+	elections_allowed = no 
+}
+set_popularities = {
+	democratic = 0
+	fascism = 0
+	communism = 0
+	conqueror = 0
+	mafia = 100
+	raider = 0
+}
+
+
+create_country_leader = {
+	name = "Louis Tom Dragna"
+	desc = "POLITICS_LOUIS_TOM_DRAGNA_DESC"
+	picture = "Portrait_Las_Vegas_Bugsy_Siegel.dds"
+	expire = "1965.1.1"
+	ideology = american
+	traits = {
+		
+	}
+}

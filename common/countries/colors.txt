@@ -742,3 +742,7 @@ LAS = {
 	color = rgb { 40 0 155 }
 	color_ui = rgb { 40 0 200 }
 }
+LOS = {
+	color = rgb { 155 0 40 }
+	color_ui = rgb { 200 0 40 }
+}
