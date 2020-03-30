@@ -738,3 +738,7 @@ PRS = {
 	color = rgb { 125 13 24 }
 	color_ui = rgb { 163 17 31 }
 }
+LAS = {
+	color = rgb { 40 0 155 }
+	color_ui = rgb { 40 0 200 }
+}
