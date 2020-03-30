@@ -2277,6 +2277,6 @@ PRS_neutrality_ADJ:0 "Prussian"
 
 #######################################################     Las Vegas
 
-LAS_mafia:0 "Las Vegas"
+LAS_mafia:0 "Las Vegas Strip"
 LAS_mafia_DEF:0 "the Mafian State of Las Vegas"
 LAS_mafia_ADJ:0 "Las Vegan" #Yes that's the proper demonym https://en.wikipedia.org/wiki/Las_Vegas
